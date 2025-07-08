@@ -1,0 +1,10 @@
+Title: Workers Coordination
+new-page: true
+is-card: true
+view-if: rubicon and kpd_leader = "Conciliators" and kpd_truce = 1 and kpd_relation >= 50 and kpd_rectified_history = 1
+on-arrival: month_actions += 1
+tags: party_affairs
+
+= Workers Coordination
+
+WIP
